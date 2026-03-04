@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock-Market-Prediction
 
 This repository began as a **7th-semester minor project** and evolved into our **8th-semester major project**, **"Advanced Stock Price Forecasting Using a Hybrid Model of Numerical and Textual Analysis."** It utilizes **Python, NLP (NLTK, spaCy), ML models, Grafana, InfluxDB, and Streamlit** for data analysis and visualization.
@@ -382,3 +383,6 @@ Here's an overview of the Flask App:
 - Drop a 🌟 if you find this repository useful.<br><br>
 - If you have any doubts or suggestions, feel free to reach us.<br><br>
 - **Contribute and Discuss:** Feel free to open <a href= "https://github.com/madhurimarawat/Stock-Market-Prediction/issues">issues 🐛</a>, submit <a href = "https://github.com/madhurimarawat/Stock-Market-Prediction/pulls">pull requests 🛠️</a>, or start <a href = "https://github.com/madhurimarawat/Stock-Market-Prediction/discussions">discussions 💬</a> to help improve this repository!
+=======
+# AI-MARKET-TREND-FORECASTING
+>>>>>>> 49e8f8af4343a289583dc696494d9f467bcc9b6c
